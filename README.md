@@ -9,7 +9,7 @@
 ## Installation
 
 ```
-npm install stack-rabbit
+npm install stackrabbit
 ```
 ## Getting Started
 
