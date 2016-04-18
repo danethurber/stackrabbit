@@ -1,6 +1,6 @@
 {
   "name": "stackrabbit",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Expressive Middleware for RabbitMQ Listeners",
   "main": "lib/application.js",
   "scripts": {
