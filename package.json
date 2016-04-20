@@ -23,7 +23,6 @@
   "author": "Dane Thurber <dane.thurber@gmail.com> (http://github.com/danethurber)",
   "license": "MIT",
   "devDependencies": {
-    "ava": "0.14.0",
     "chai": "3.5.0",
     "co-mocha": "1.1.2",
     "eslint": "2.7.0",
