@@ -19,7 +19,9 @@ const contentParser = require('stackrabbit-content-parser')
 
 const listener = stackrabbit({
   queueName: 'some-queue',
-  rabbitUrl: 'amqp://guest:guest@rabbit.dev:5672'
+  hosts: ['rabbit.dev'],
+  username: 'guest',
+  password: 'guest'
 })
 
 // You can write middleware just like in Koa
